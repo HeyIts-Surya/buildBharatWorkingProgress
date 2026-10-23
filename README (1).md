@@ -1,4 +1,5 @@
 # PMIS Career Copilot
+-----------------------
 
 **An API-first, explainable AI career assistant for the Prime Minister Internship Scheme (PMIS).**
 
