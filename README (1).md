@@ -4,6 +4,8 @@
 
 > **Project status:** Proposed / in development. This is an independent competition prototype, **not an official Government of India or Ministry of Corporate Affairs product**. Features listed below are planned unless explicitly marked complete.
 
+**Official portal:** https://pminternship.mca.gov.in/
+
 ## Overview
 
 PMIS Career Copilot is designed as a modular AI/ML system that can be integrated into the existing [PM Internship Scheme portal](https://pminternship.mca.gov.in/). Instead of replacing the portal, it adds intelligent internship discovery, resume understanding, eligibility guidance, actionable chat assistance, and practical commute information.
@@ -194,4 +196,4 @@ These endpoints are **proposals**, not implemented services.
 
 PMIS Career Copilot is a **proposed integration module**, not a replacement for the official PMIS portal. This README describes planned functionality; it does not imply that the AI features are already built, deployed, endorsed, or connected to government services. Official eligibility and application decisions remain with the authorized PMIS system.
 
-**Official portal:** https://pminternship.mca.gov.in/
+
