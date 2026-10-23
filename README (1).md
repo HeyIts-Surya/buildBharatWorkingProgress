@@ -5,6 +5,7 @@
 
 > **Project status:** Proposed / in development. This is an independent competition prototype, **not an official Government of India or Ministry of Corporate Affairs product**. Features listed below are planned unless explicitly marked complete.
 
+**Official portal:** https://pminternship.mca.gov.in/
 
 ## Overview
 
@@ -197,4 +198,3 @@ These endpoints are **proposals**, not implemented services.
 PMIS Career Copilot is a **proposed integration module**, not a replacement for the official PMIS portal. This README describes planned functionality; it does not imply that the AI features are already built, deployed, endorsed, or connected to government services. Official eligibility and application decisions remain with the authorized PMIS system.
 
 
-**Official portal:** https://pminternship.mca.gov.in/
